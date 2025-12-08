@@ -1,49 +1,92 @@
 # 👋 Hi, I'm **Anshal Manoj**
 
-### 🚀 Developer • Server Admin • Hosting Provider
+### 🚀 Full-Stack Developer • Server Admin • Hosting & Cloud Engineer
 
-Welcome to my GitHub Profile! I'm Anshal, a passionate developer and the mind behind multiple hosting and gaming networks like **HectorHosting**, **SkyDash**, **Metrix**, and more. I work with servers, automation, Minecraft networks, firewalls, VPS setups, and creating tools that help communities grow.
+Welcome to my GitHub Profile! I'm Anshal, a professional developer and infrastructure engineer with extensive experience in hosting, server management, security, cloud systems, and gaming networks. I have managed **50+ Minecraft servers**, worked with **10+ hosting/cloud companies**, and built advanced tools for communities and businesses. I specialize in Linux servers, Pterodactyl infrastructure, virtualization, DDoS protection, automation, and full-stack development.
 
 ---
 
 ## 🌐 About Me
 
-* 🧑‍💻 **Full‑stack developer & server administrator**
-* 🛠️ Owner / Admin at **HectorHosting**, **HectorShield**, **Matrix**
-* ⚙️ Experienced with server management: Ubuntu, CentOS, firewalls, Pterodactyl, Nginx
-* 🎮 Creator of Minecraft networks like **Matrix Network**, **Spadikam Anarchy**, and **Legacy Verse**
-* 🛡️ Build advanced DDoS protection scripts, firewall automations, and monitoring tools
-* 🌱 Always learning more about Linux, backend, networking, and security
+* 🧑‍💻 **Full-Stack Developer & Senior Server Administrator**
+* 🛠️ Owner/Admin at **HectorHosting**, **HectorShield**, **Matrix**
+* ⚙️ Expert in server management: Ubuntu, Debian, CentOS, firewalls, Pterodactyl, Nginx, Proxmox, CyberPanel
+* 🎮 Managed and optimized **50+ Minecraft networks**, including Survival, Anarchy, Lifesteal, Skyblock & Modded servers
+* ☁️ Experienced with **10+ cloud/hosting providers**: OVH, Hetzner, Contabo, AWS, DigitalOcean, Vultr, Linode, bare-metal servers
+* 🔧 Specialized in security hardening, DDoS mitigation, TCPDump monitoring, Pterodactyl architecture, firewall automation, and performance tuning
+* 🌱 Continuously learning and implementing new technologies in cloud, backend systems, networking, and Linux internals
 
 ---
 
-## 🧰 Skills & Technologies
+## 🧩 Skills & Expertise
 
-### **Languages & Code**
+### **Languages & Development**
 
-* TypeScript (TSX), JavaScript, PHP (8.3/8.4), Bash scripting
-* Markdown, JSON, SQL
+* **Web & Backend:** TypeScript (TSX), JavaScript, Node.js, PHP 8.3 / 8.4, Bash scripting, Python (automation)
+* **Databases & Configs:** SQL, Redis, JSON, YAML, Markdown
+* **Full-stack:** API integration, automation scripts, plugin development
 
-### **Server & DevOps**
+### **Hosting Panels & Platforms**
 
-* Pterodactyl Panel, Docker, UFW, iptables
-* Nginx, Apache, MariaDB/MySQL
-* DDoS Deflate, TCPDump-based alert systems
+* **Pterodactyl Panel** (nodes, wings, proxies, scaling, eggs)
+* **WHMCS** (billing automation, module integration)
+* CyberPanel, cPanel, DirectAdmin, aaPanel
+* **Proxmox VE** (VMs, LXC, clusters, backups, routing)
+* LXD/LXC, KVM virtualization
 
-### **Platforms & Tools**
+### **Networking & Security**
 
-* Ubuntu & Debian servers
-* CyberPanel, LXD/LXC, Virtualization
-* GitHub Projects & Automation
+* **Cloudflare Full Stack:** DNS, Reverse Proxy, WAF, Page Rules, Rate Limits, Spectrum, Firewall Policies
+* Nginx, Apache, HAProxy, Load Balancing, SSL/TLS
+* iptables, nftables, UFW, Fail2Ban
+* pfSense (VLANs, firewalls, routing, VPN, IDS/IPS)
+* Custom-built DDoS protection systems: PPS detection, automated mitigation, Discord alerts
+* Server hardening, kernel tuning, sysctl optimization, caching, rate-limiting
+
+### **Minecraft Server Engineering**
+
+* 50+ servers: Survival, SMP, Lifesteal, Anarchy, Skyblock, Modded
+* BungeeCord/Waterfall/Velocity networks, Geyser + Floodgate setups
+* Plugin debugging, optimization, and custom automation scripts
+* Performance tuning: Paper/Spigot/Purpur configuration
+
+### **Cloud & DevOps**
+
+* Docker, Docker Compose, CI/CD pipelines, automated deployments
+* Multi-node clusters, load balancing, backups, monitoring systems
+* Cloud Providers: OVH, Hetzner, Contabo, AWS, DigitalOcean, Vultr, Linode
+
+### **Business & Hosting Management**
+
+* Built hosting services: HectorHosting, HectorShield, Matrix
+* Automated panel setups, billing integration, customer management
+* Uptime monitoring, infrastructure scaling, and marketing tools
+
+---
+
+## 🌟 Why Work With Me?
+
+* Highly skilled in server architecture, cloud management, and security
+* Can build, optimize, and secure hosting platforms from scratch
+* Experienced in scaling gaming networks and community platforms
+* Expert in automation and system efficiency
+* Always up-to-date with the latest tools, panels, and cloud technologies
 
 ---
 
 ## 📫 Contact Me
 
 * 🌍 Website / Hosting: **HectorHosting**
-* 📧 Email: *anshalmanojgaming@gmail.com*
-* 💬 Discord: *anshalplayz*
+* 📧 Email: [anshalmanojgaming@gmail.com](mailto:anshalmanojgaming@gmail.com)
+* 💬 Discord: anshalplayz
 
 ---
 
-Thanks for visiting my profile! ⭐ Feel free to star, fork, or explore my repositories!
+## 📈 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=radical)
+
+---
+
+✨ This profile highlights my expertise in **development, server administration, hosting, cloud infrastructure, networking, security, and gaming network management**. All tools, skills, and experience are presented clearly, professionally, and ready for collaboration!
