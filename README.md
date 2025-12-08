@@ -40,4 +40,47 @@ Welcome to my GitHub Profile! I'm Anshal, a professional server administrator an
 ### **Minecraft Server Engineering**
 
 * 50+ servers: Survival, SMP, Lifesteal, Anarchy, Skyblock, Modded
-* BungeeCord/Waterfall/Velocity networks, Geyser + Floo
+* BungeeCord/Waterfall/Velocity networks, Geyser + Floodgate setups
+* Plugin debugging, optimization, and custom automation scripts
+* Performance tuning: Paper/Spigot/Purpur configuration
+
+### **Cloud & DevOps**
+
+* Docker, Docker Compose, CI/CD pipelines, automated deployments
+* Multi-node clusters, load balancing, backups, monitoring systems
+* Cloud Providers: OVH, Hetzner, Contabo, AWS, DigitalOcean, Vultr, Linode
+
+### **Business & Hosting Management**
+
+* Built hosting services: HectorHosting, HectorShield, Matrix
+* Automated panel setups, billing integration, customer management
+* Uptime monitoring, infrastructure scaling, and marketing tools
+
+---
+
+## 🌟 Why Work With Me?
+
+* Highly skilled in server architecture, cloud management, and security
+* Can build, optimize, and secure hosting platforms from scratch
+* Experienced in scaling gaming networks and community platforms
+* Expert in automation and system efficiency
+* Always up-to-date with the latest tools, panels, and cloud technologies
+
+---
+
+## 📫 Contact Me
+
+* 🌍 Website / Hosting: **HectorHosting**
+* 📧 Email: [anshalmanojgaming@gmail.com](mailto:anshalmanojgaming@gmail.com)
+* 💬 Discord: anshalplayz
+
+---
+
+## 📈 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=radical)
+
+---
+
+✨ This profile highlights my expertise in **server administration, hosting, cloud infrastructure, networking, security, and Minecraft network management**. All tools, skills, and experience are presented clearly, professionally, and ready for collaboration!
