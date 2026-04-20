@@ -8,8 +8,8 @@
 🇮🇳 Kerala, India &nbsp;·&nbsp; 15 y/o &nbsp;·&nbsp; Self-taught · Still in school · Already building real things
 
 [![Website](https://img.shields.io/badge/🌐_anshal.me-FF6B6B?style=for-the-badge)](https://anshal.me)
-[![Email](https://img.shields.io/badge/📧_Email-4ECDC4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anshalmanojgaming@gmail.com)
-[![Discord](https://img.shields.io/badge/💬_anshalplayz-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
+[![Email](https://img.shields.io/badge/📧_Email-4ECDC4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anshalmanoj2011@gmail.com)
+[![Discord](https://img.shields.io/badge/💬_anshalmanoj-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
 [![Instagram](https://img.shields.io/badge/📸_Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/anshalmanoj)
 
 </div>
@@ -117,6 +117,6 @@ inspired : Jesus · Monkey D. Luffy · Naruto Uzumaki
 
 ---
 
-`anshal.me` · `anshalmanojgaming@gmail.com` · `Discord: anshalplayz`
+`anshal.me` · `anshalmanoj2011@gmail.com` · `Discord: anshalplayz`
 
 </div>
