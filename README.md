@@ -38,7 +38,7 @@ status    : Self-taught · Full-time student · Part-time everything
 currently : Learning Linux internals + diving deep into Cybersecurity
 next up   : Learning programming languages (soon™)
 dream     : Change the world from corruption to absolute goodness 🌿
-inspired  : Jesus · Monkey D. Luffy · Naruto Uzumaki
+inspired  : Jesus · Waguri Kaoruko · Monkey D. Luffy · Naruto Uzumaki
 ```
 
 ---
