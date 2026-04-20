@@ -1,59 +1,122 @@
 <div align="center">
 
-<img src="https://i.ibb.co/1t0pPtqf/anshalmanoj.jpg" width="120" style="border-radius:50%"/>
+<img src="https://i.ibb.co/1t0pPtqf/anshalmanoj.jpg" width="110" style="border-radius:50%"/>
 
 # Anshal Manoj
-**`Server Admin · Infrastructure Engineer · Minecraft Network Specialist`**
+**`Server Admin · Infrastructure Engineer · Future World Changer`**
 
-🇮🇳 Kerala, India &nbsp;·&nbsp; 15 y/o &nbsp;·&nbsp; Building things that actually work
+🇮🇳 Kerala, India &nbsp;·&nbsp; 15 y/o &nbsp;·&nbsp; Self-taught · Still in school · Already building real things
 
-[![Website](https://img.shields.io/badge/anshal.me-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://anshal.me)
-[![Email](https://img.shields.io/badge/Email-4ECDC4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anshalmanojgaming@gmail.com)
-[![Discord](https://img.shields.io/badge/anshalplayz-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
+[![Website](https://img.shields.io/badge/🌐_anshal.me-FF6B6B?style=for-the-badge)](https://anshal.me)
+[![Email](https://img.shields.io/badge/📧_Email-4ECDC4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anshalmanojgaming@gmail.com)
+[![Discord](https://img.shields.io/badge/💬_anshalplayz-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
+[![Instagram](https://img.shields.io/badge/📸_Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/anshalmanoj)
 
 </div>
 
 ---
 
-### ⚡ What I Do
+<div align="center">
 
-🖥️ &nbsp;**Server Admin** — Linux, Pterodactyl, Proxmox, Nginx, CyberPanel  
-🔐 &nbsp;**Security** — Custom DDoS protection, Cloudflare WAF, iptables, Fail2Ban  
-🎮 &nbsp;**Minecraft** — 50+ networks · Velocity · BungeeCord · Geyser · Paper/Purpur  
-⚙️ &nbsp;**Automation** — Docker, CI/CD, WHMCS billing, monitoring systems  
+```
+I am not anything now — but I am on my way to change this world. 🌍
+```
 
----
-
-### 🏢 My Ventures
-
-| Project | Role | Focus |
-|---|---|---|
-| **HectorHosting** | Founder | Game & web hosting |
-| **HectorShield** | Founder | DDoS protection service |
-| **Matrix** | Owner | Infrastructure & community |
+</div>
 
 ---
 
-### 🛠️ Stack
+### 🧠 About Me
+
+```yaml
+name     : Anshal Manoj
+age      : 15
+location : Kerala, India 🇮🇳
+grade    : Entering 10th Standard (June 2026)
+status   : Self-taught · Full-time student · Part-time infrastructure engineer
+currently: Learning Linux internals + diving into Cybersecurity
+next up  : Learning programming languages (soon™)
+dream    : Change the world from corruption to absolute goodness 🌿
+inspired : Jesus · Monkey D. Luffy · Naruto Uzumaki
+```
+
+---
+
+### ⚡ What I Actually Do
+
+🖥️ &nbsp;**Server Administration** — Linux, Pterodactyl, Proxmox, Nginx, CyberPanel, DirectAdmin  
+🔐 &nbsp;**Security & Networking** — Custom DDoS protection systems, Cloudflare WAF, iptables, nftables, UFW, Fail2Ban  
+🎮 &nbsp;**Minecraft Networks** — 50+ servers managed · BungeeCord · Geyser+Floodgate · Paper/Purpur tuning  
+⚙️ &nbsp;**Automation & DevOps** — Docker, CI/CD pipelines, WHMCS billing automation, uptime monitoring  
+🌱 &nbsp;**Currently Learning** — Linux internals · Cybersecurity & ethical hacking · Programming languages  
+
+---
+
+### 🏢 Ventures I Built
+
+| 🚀 | Project | Role | What It Is |
+|---|---|---|---|
+| 🟠 | **HectorHosting** | Founder & Owner | Game server & web hosting platform |
+| 🔴 | **HectorShield** | Founder & Owner | Custom DDoS mitigation & protection |
+| 🟣 | **Matrix** | Owner & Admin | Infrastructure & community platform |
+
+---
+
+### 🛠️ Current Stack
+
+**Systems**
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white)
 ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+**Web & Security**
+
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
-![pfSense](https://img.shields.io/badge/pfSense-212121?style=flat-square)
-![Velocity](https://img.shields.io/badge/Velocity-1C77C3?style=flat-square)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Fail2Ban](https://img.shields.io/badge/Fail2Ban-CC0000?style=flat-square&logoColor=white)
+
+**Minecraft**
+
+![BungeeCord](https://img.shields.io/badge/BungeeCord-F5A623?style=flat-square)
 ![Geyser](https://img.shields.io/badge/Geyser-00B4D8?style=flat-square)
+![PaperMC](https://img.shields.io/badge/PaperMC-F58025?style=flat-square)
+
+**Interested & Learning 🌱**
+
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-00FF88?style=flat-square&logo=hackthebox&logoColor=black)
+![Linux Internals](https://img.shields.io/badge/Linux_Internals-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Programming](https://img.shields.io/badge/Languages-Coming_Soon...-blueviolet?style=flat-square)
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+![Stats](https://github-readme-stats.vercel.app/api?username=anshalmanoj&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=4ECDC4&text_color=ffffff)
+&nbsp;
+![Streak](https://streak-stats.demolab.com?user=anshalmanoj&hide_border=true&background=0D1117&ring=FF6B6B&fire=FF6B6B&currStreakLabel=4ECDC4&sideLabels=ffffff&dates=ffffff)
+
+</div>
 
 ---
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=anshalmanoj&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=4ECDC4&text_color=ffffff&hide=contribs)
-&nbsp;
-![Streak](https://streak-stats.demolab.com?user=anshalmanoj&hide_border=true&background=0D1117&ring=FF6B6B&fire=FF6B6B&currStreakLabel=4ECDC4&sideLabels=ffffff&dates=ffffff)
+### 🌟 The Bigger Picture
 
-*"Power isn't determined by your size, but the size of your heart and dreams." — Luffy 🏴‍☠️*
+> I'm not just here to write code or manage servers.
+> I carry a dream — to build a world with no corruption, no hate, only goodness.
+> Every skill I learn is one step closer to that.
+
+*"Power isn't determined by your size, but the size of your heart and dreams."*
+— **Monkey D. Luffy** 🏴‍☠️
+
+---
+
+`anshal.me` · `anshalmanojgaming@gmail.com` · `Discord: anshalplayz`
 
 </div>
