@@ -9,7 +9,7 @@
 
 [![Website](https://img.shields.io/badge/🌐_anshal.me-FF6B6B?style=for-the-badge)](https://anshal.me)
 [![Email](https://img.shields.io/badge/📧_Email-4ECDC4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anshalmanoj2011@gmail.com)
-[![Discord](https://img.shields.io/badge/💬_anshalmanoj-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
+[![Discord](https://img.shields.io/badge/💬_anshalmanoj-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1239947884703518770)
 [![Instagram](https://img.shields.io/badge/📸_Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/anshalmanoj)
 
 </div>
