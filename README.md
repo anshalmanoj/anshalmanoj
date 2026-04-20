@@ -3,7 +3,7 @@
 <img src="https://i.ibb.co/1t0pPtqf/anshalmanoj.jpg" width="110" style="border-radius:50%"/>
 
 # Anshal Manoj
-**`Server Admin · Infrastructure Engineer · Future World Changer`**
+**`Server Admin · Infrastructure Engineer · Discord Developer · Future World Changer`**
 
 🇮🇳 Kerala, India &nbsp;·&nbsp; 15 y/o &nbsp;·&nbsp; Self-taught · Still in school · Already building real things
 
@@ -29,26 +29,29 @@ I am not anything now — but I am on my way to change this world. 🌍
 ### 🧠 About Me
 
 ```yaml
-name     : Anshal Manoj
-age      : 15
-location : Kerala, India 🇮🇳
-grade    : Entering 10th Standard (June 2026)
-status   : Self-taught · Full-time student · Part-time infrastructure engineer
-currently: Learning Linux internals + diving into Cybersecurity
-next up  : Learning programming languages (soon™)
-dream    : Change the world from corruption to absolute goodness 🌿
-inspired : Jesus · Monkey D. Luffy · Naruto Uzumaki
+name      : Anshal Manoj
+age       : 15
+location  : Kerala, India 🇮🇳
+grade     : Entering 10th Standard (June 2026)
+daily OS  : Arch Linux btw 🐧
+status    : Self-taught · Full-time student · Part-time everything
+currently : Learning Linux internals + diving deep into Cybersecurity
+next up   : Learning programming languages (soon™)
+dream     : Change the world from corruption to absolute goodness 🌿
+inspired  : Jesus · Monkey D. Luffy · Naruto Uzumaki
 ```
 
 ---
 
-### ⚡ What I Actually Do
+### ⚡ What I Do
 
 🖥️ &nbsp;**Server Administration** — Linux, Pterodactyl, Proxmox, Nginx, CyberPanel, DirectAdmin  
-🔐 &nbsp;**Security & Networking** — Custom DDoS protection systems, Cloudflare WAF, iptables, nftables, UFW, Fail2Ban  
-🎮 &nbsp;**Minecraft Networks** — 50+ servers managed · BungeeCord · Geyser+Floodgate · Paper/Purpur tuning  
-⚙️ &nbsp;**Automation & DevOps** — Docker, CI/CD pipelines, WHMCS billing automation, uptime monitoring  
-🌱 &nbsp;**Currently Learning** — Linux internals · Cybersecurity & ethical hacking · Programming languages  
+🔐 &nbsp;**Security & Networking** — Custom DDoS protection, Cloudflare WAF, iptables, nftables, UFW, Fail2Ban  
+🎮 &nbsp;**Minecraft Development** — 50+ servers built & managed · BungeeCord · Geyser+Floodgate · Paper/Purpur  
+🤖 &nbsp;**Discord Bots** — Built bots using AI tools · custom commands, moderation, automation  
+💬 &nbsp;**Discord Servers** — Developed & managed multiple large communities · roles, bots, structure, growth  
+⚙️ &nbsp;**DevOps** — Docker, CI/CD pipelines, WHMCS billing automation, monitoring  
+🌱 &nbsp;**Learning** — Linux internals · Cybersecurity & ethical hacking · Programming languages  
 
 ---
 
@@ -57,26 +60,31 @@ inspired : Jesus · Monkey D. Luffy · Naruto Uzumaki
 | 🚀 | Project | Role | What It Is |
 |---|---|---|---|
 | 🟠 | **HectorHosting** | Founder & Owner | Game server & web hosting platform |
-| 🔴 | **HectorShield** | Founder & Owner | Custom DDoS mitigation & protection |
-| 🟣 | **Matrix** | Developer & Admin | Infrastructure & community platform |
+| 🔴 | **HectorShield** | Founder & Owner | Custom DDoS mitigation & protection service |
+| 🟣 | **Matrix** | Owner & Admin | Infrastructure & community platform |
 
 ---
 
-### 🛠️ Current Stack
+### 🛠️ Stack & Tools
 
 **Systems**
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white)
 ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white)
 
-**Web & Security**
+**Networking & Security**
 
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Fail2Ban](https://img.shields.io/badge/Fail2Ban-CC0000?style=flat-square&logoColor=white)
+
+**Discord & Community**
+
+![Discord](https://img.shields.io/badge/Discord_Bots-7289DA?style=flat-square&logo=discord&logoColor=white)
+![Discord](https://img.shields.io/badge/Community_Management-5865F2?style=flat-square&logo=discord&logoColor=white)
 
 **Minecraft**
 
@@ -84,10 +92,10 @@ inspired : Jesus · Monkey D. Luffy · Naruto Uzumaki
 ![Geyser](https://img.shields.io/badge/Geyser-00B4D8?style=flat-square)
 ![PaperMC](https://img.shields.io/badge/PaperMC-F58025?style=flat-square)
 
-**Interested & Learning 🌱**
+**Learning 🌱**
 
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-00FF88?style=flat-square&logo=hackthebox&logoColor=black)
-![Linux Internals](https://img.shields.io/badge/Linux_Internals-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Linux Internals](https://img.shields.io/badge/Linux_Internals-1793D1?style=flat-square&logo=arch-linux&logoColor=white)
 ![Programming](https://img.shields.io/badge/Languages-Coming_Soon...-blueviolet?style=flat-square)
 
 ---
@@ -108,15 +116,15 @@ inspired : Jesus · Monkey D. Luffy · Naruto Uzumaki
 
 ### 🌟 The Bigger Picture
 
-> I'm not just here to write code or manage servers.
+> I'm not just here to manage servers or build bots.
 > I carry a dream — to build a world with no corruption, no hate, only goodness.
 > Every skill I learn is one step closer to that.
 
 *"Power isn't determined by your size, but the size of your heart and dreams."*
-— **Monkey D. Luffy** 🏴‍☠️
+&nbsp;— **Monkey D. Luffy** 🏴‍☠️
 
 ---
 
-`anshal.me` · `anshalmanoj2011@gmail.com` · `Discord: anshalplayz`
+`anshal.me` · `anshalmanoj2011@gmail.com` · `Discord: anshalmanoj`
 
 </div>
