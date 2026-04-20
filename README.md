@@ -58,7 +58,7 @@ inspired : Jesus · Monkey D. Luffy · Naruto Uzumaki
 |---|---|---|---|
 | 🟠 | **HectorHosting** | Founder & Owner | Game server & web hosting platform |
 | 🔴 | **HectorShield** | Founder & Owner | Custom DDoS mitigation & protection |
-| 🟣 | **Matrix** | Owner & Admin | Infrastructure & community platform |
+| 🟣 | **Matrix** | Developer & Admin | Infrastructure & community platform |
 
 ---
 
