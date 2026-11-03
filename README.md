@@ -32,7 +32,7 @@ I am not anything now — but I am on my way to change this world. 🌍
 name      : Anshal Manoj
 age       : 15
 location  : Kerala, India 🇮🇳
-grade     : Entering 10th Standard (June 2026)
+grade     : 10th Standard
 daily OS  : Arch Linux btw 🐧
 status    : Self-taught · Full-time student · Part-time everything
 currently : Learning Linux internals + diving deep into Cybersecurity
